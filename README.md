@@ -1,4 +1,4 @@
-# UTS Machine Learning: Klasifikasi Citrus (Orange vs Grapefruit) 🍊🍇
+# UTS Machine Learning: Klasifikasi Citrus (Orange vs Grapefruit)
 
 Repositori ini berisi proyek pembuatan model *Machine Learning* untuk memenuhi Tugas Ujian Tengah Semester (UTS). Tujuan dari proyek ini adalah membangun dan membandingkan tiga algoritma klasifikasi—**Decision Tree, Naive Bayes, dan Support Vector Machine (SVM)**—untuk mengidentifikasi apakah sebuah buah merupakan jeruk (*orange*) atau anggur (*grapefruit*) berdasarkan fitur fisik dan warnanya.
 
